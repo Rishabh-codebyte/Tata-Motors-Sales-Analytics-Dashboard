@@ -22,19 +22,19 @@ The dashboard follows a premium dark automotive-inspired UI with dynamic vehicle
 
 ## Executive Dashboard
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Dashboard2.png)
 
 ---
 
 ## Car Overview
 
-![Car Overview](Car_Overview.png)
+![Car Overview](Dashboard_CarOverview.png)
 
 ---
 
 ## Data Model
 
-![Data Model](Data_Model.png)
+![Data Model](Model_View.png)
 
 ---
 
